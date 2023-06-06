@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Paket Reguler",
+    "description": "Pencucian pakaian biasa dengan pengeringan dan lipatan",
+    "day": 3,
+    "price": 40000
+  },
+  {
+    "id": 2,
+    "name": "Paket Kilat",
+    "description": "Pencucian kilat untuk keperluan mendesak dengan pengeringan cepat",
+    "day": 2,
+    "price": 50000
+  },
+  {
+    "id": 3,
+    "name": "Paket Ekspres",
+    "description": "Pencucian dan pengeringan cepat dengan layanan pengantaran dalam waktu singkat",
+    "day": 1,
+    "price": 80000
+  },
+  {
+    "id": 4,
+    "name": "Paket Hemat",
+    "description": "Pencucian pakaian dengan harga terjangkau untuk kebutuhan sehari-hari",
+    "day": 4,
+    "price": 20000
+  },
+  {
+    "id": 5,
+    "name": "Paket Premium",
+    "description": "Layanan pencucian dan perawatan khusus dengan produk pembersih berkualitas tinggi",
+    "day": 3,
+    "price": 60000
+  }
+]

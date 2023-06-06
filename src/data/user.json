@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "email": "admin@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$ql2aY6qt8KQxnNmfAODb8w$SEjc4Nzs5udjjc6RNvj2Xdsl6VyDL3yITHPgAztFfD4",
+    "phone_number": "08123456789",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "yandi hirniyansyah",
+    "email": "cookyndi@gmail.com",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$yi/wbRcfcMKhikAEmYHILw$8Wb+wvoCa/gBo1beS0CaU2cBhvXOEE+dFyLsxKgRzAc",
+    "phone_number": "08123456789",
+    "role": "user"
+  }
+]
